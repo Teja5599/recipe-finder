@@ -3,7 +3,7 @@ import "./App.css"
 import Home from './pages/Home'
 import NavBar from './components/NavBar'
 import { useState } from 'react'
-import Footer from './pages/footer'
+import Footer from './pages/Footer'
 const App = () => {
   const [darkMode, setDarkMode] = useState(false)
   const[resetHome , setResetHome] = useState(false)
