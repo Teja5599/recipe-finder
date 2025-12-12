@@ -5,5 +5,9 @@
     align-items: center;
     justify-content: center;
     color: #999;
-    background: #262a2a;
+    background: #fff;
+}
+
+.dark .footer{
+    background: #1b1b1b;
 }
